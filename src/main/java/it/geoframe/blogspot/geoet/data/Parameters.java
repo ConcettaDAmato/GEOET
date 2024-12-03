@@ -111,9 +111,9 @@ public class Parameters {
 	@Description("Emissivity of the soil ɛs")
 	public double soilEmissivity = 0.94; 
 	
-	public double defaultRootDepth = 0.5;
+	public double defaultRootDepth = -0.5;
 	
-	public double defaultCanopyHeigth = 0.3;
+	public double defaultCanopyHeigth = 1;
 	
 	public double defaultAssimilationRate = 0.5;
 	
